@@ -11,4 +11,4 @@ Open `index.html` in a web browser.
 - Boot screen animation
 - Kernel-style terminal prompt
 - Simple command input
-- No Leaf Code dependencies
+- thats all imo
